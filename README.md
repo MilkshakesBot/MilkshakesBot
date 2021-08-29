@@ -10,4 +10,7 @@ I have a HomeLab that I use to sharpen my skills and learn new coding languages.
 
 ### Pitter-patter, let’s get at ‘er.
 
+
+![](https://github.com/MilkshakesBot/github-stats/blob/master/generated/overview.svg)
+
 <!-- **MilkshakesBot/MilkshakesBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
