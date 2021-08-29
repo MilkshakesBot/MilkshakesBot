@@ -4,7 +4,7 @@ How are you now? I am MilkshakesBot or James. I am a UAB student studying Cyber 
 
 I have a HomeLab that I use to sharpen my skills and learn new coding languages. This also helps me test stuff locally before pushing them to a live environment.
 
->**What I'm currently working on:** Nothing currently at this instant.
+>**What I'm currently working on:** Nothing
 
 
 ### Pitter-patter, let’s get at ‘er.
