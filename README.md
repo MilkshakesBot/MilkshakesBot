@@ -4,7 +4,7 @@ How are you now? I am MilkshakesBot or James. I am a student studying Cyber Secu
 
 I have a HomeLab that I use to sharpen my skills and learn new coding languages. This also helps me test stuff locally before pushing them to a live environment.
 
->**What I'm currently working on:** Nothing
+>**What I'm currently working on:** TTK Calcualtor For Planetside 2
 
 
 ### Pitter-patter, let’s get at ‘er.
