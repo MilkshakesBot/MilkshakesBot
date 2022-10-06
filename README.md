@@ -1,14 +1,15 @@
-## Hi there 👋
+<h><img src = "https://raw.githubusercontent.com/MilkshakesBot/MilkshakesBot/main/wave.gif" width = 30px> Hi there!</h3>
 
-How are you now? I am MilkshakesBot or James. I am a student studying Cyber Security / Digital Forensics. Currently, I am teaching myself more programming skills to improve my ability to handle cybersecurity threats. I also like to create fun projects for my friends that sometimes get published here. I also use this space to fork and back up other github repos.
+### I'm MilkshakesBot or James. I am a student studying Cyber Security / Digital Forensics.
 
-I have a HomeLab that I use to sharpen my skills and learn new coding languages. This also helps me test stuff locally before pushing them to a live environment.
+#### Where else to find me:
 
->**What I'm currently working on:** TTK Calcualtor For Planetside 2
-
-
-### Pitter-patter, let’s get at ‘er.
+<h3>
+<a href="https://www.linkedin.com/in/hubnerj/"><img src="https://img.shields.io/badge/-LinkedIn-lightgrey?style=flat-square&logo=LinkedIn&logoColor=blue" alt="LinkedIn Badge"></a>
+<a href="https://twitter.com/milkshakesbot/"><img src="https://img.shields.io/badge/-Twitter-lightgrey?style=flat-square&logo=Twitter" alt="Twitter Badge"></a>
+<a href="https://jameshub.com/contact/"><img src="https://img.shields.io/badge/-Contact-lightgrey?style=flat-square&logo=gmail" alt="Contact Badge"></a>
+<a href="https://jameshub.com/"><img src="https://img.shields.io/badge/-Blog-lightgrey?style=flat-square" alt="Blog Badge"></a>
+</h3>
 
 
 ![](https://github.com/MilkshakesBot/github-stats/blob/master/generated/overview.svg)
-<!-- **MilkshakesBot/MilkshakesBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
