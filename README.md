@@ -1,6 +1,7 @@
 <h1><img src = "https://raw.githubusercontent.com/MilkshakesBot/MilkshakesBot/main/wave.gif" width = 30px> Hi there!</h1>
 
 ### I'm MilkshakesBot or James. I am a student studying Cyber Security / Digital Forensics.
+## What I am currently working/learning: [Rust](https://www.rust-lang.org/) 
 
 #### Where else to find me:
 
