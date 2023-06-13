@@ -5,7 +5,7 @@
 I am passionate about the importance of privacy on the internet and the potential of open source technology. I'm currently studying Cyber Security/Digital Forensics, and work as an Intelligence Analyst at Dark Tower. In my free time, I enjoy exploring the latest developments in these fields and finding new ways to apply my knowledge to real-world challenges.
 
 ### What I am currently working on / learning:
-- [Rust](https://www.rust-lang.org/)
+- [Crablang](https://crablang.org/) / [Rust](https://www.rust-lang.org/)
 
 ### So where else to find me?
 
