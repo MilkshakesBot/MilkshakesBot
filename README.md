@@ -4,8 +4,8 @@
 
 #### What I am currently working on / learning:
 
-- Rust (Crablang)
+- Building a massive OSINT Database
 
 ##### So where else to find me?
 
-<a href="https://www.linkedin.com/in/hubnerj/">LinkedIn</a> <a href="https://twitter.com/milkshakesbot/">Twitter</a> <a href="https://jameshub.com/contact/">Contact/Email</a> <a href="https://jameshub.com/">Website</a>
+<a href="https://jameshub.com/">Website</a> <a href="https://www.linkedin.com/in/hubnerj/">LinkedIn</a> <a href="https://bsky.app/profile/milkshakes.bot">BlueSky</a> <a href="https://twitter.com/milkshakesbot/">Twitter</a> <a href="https://jameshub.com/contact/">Contact/Email</a> <a href="https://jameshub.com/">Website</a>
