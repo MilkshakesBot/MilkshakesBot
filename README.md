@@ -1,10 +1,12 @@
-### Hi, I'm James (aka MilkshakesBot). <img src = "https://raw.githubusercontent.com/MilkshakesBot/MilkshakesBot/main/wave.gif" width = 20px>
+# I have primarlly moved to CodeBerg moving forward. I will keep all repositiores here however any new pojects will be avliable there.
 
-- I am currently a student studying Digital Forensics.
+### Hi, I'm James (aka MilkshakesBot). <img src = "wave.gif" width = 20px>
+
+I have a degree in General Studies with minors in both Digital Forensics and Psychology from UAB (University of Alabama at Birmingham). 
 
 #### What I am currently working on / learning:
 
-- Profiling and Testing Minecraft Server JVM flags to determine the validity of if they are useful or useless.
+- Primarly what I am tikering and playing around with is profiling and testing Minecraft Server JVM flags to determine the validity of if they are useful or useless. I have a few other side projects I am working on right now but do not want to disclose them yet.
 
 ##### So where else to find me?
 
