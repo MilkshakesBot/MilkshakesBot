@@ -1,4 +1,4 @@
-# I have primarlly moved to CodeBerg moving forward. I will keep all repositiores here however any new pojects will be avliable there.
+# I have primarlly moved to GitLab moving forward. I will keep all repositiores here however any new pojects will be avliable there.
 
 ### Hi, I'm James (aka MilkshakesBot). <img src = "wave.gif" width = 20px>
 
