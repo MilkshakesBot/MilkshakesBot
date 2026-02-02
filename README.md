@@ -1,12 +1,12 @@
-# I have primarlly moved to GitLab moving forward. I will keep all repositiores here however any new pojects will be avliable there.
+# I have primarlly moved to GitLab. I will keep all repositiores here however any new pojects will be avliable there.
 
 ### Hi, I'm James (aka MilkshakesBot). <img src = "wave.gif" width = 20px>
 
-I have a degree in General Studies with minors in both Digital Forensics and Psychology from UAB (University of Alabama at Birmingham). 
+I graduated from UAB (University of Alabama at Birmingham) with a focus on Digital Forensics and Psychology. 
 
 #### What I am currently working on / learning:
 
-- Primarly what I am tikering and playing around with is profiling and testing Minecraft Server JVM flags to determine the validity of if they are useful or useless. I have a few other side projects I am working on right now but do not want to disclose them yet.
+- I am tikering with is profiling and testing Minecraft Server JVM flags to determine their benefit in different JAVA environments. I have a few other confidential side projects I am working on.
 
 ##### So where else to find me?
 
